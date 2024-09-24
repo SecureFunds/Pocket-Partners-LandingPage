@@ -3,7 +3,7 @@
 ## Descripción
 Esta landing page está diseñada para **Pocket Partners**, una plataforma que ofrece consultoría en finanzas personales y facilita la planificación de gastos en grupos. La página tiene como objetivo informar a los usuarios sobre los servicios de Pocket Partners y motivarlos a registrarse.
 
-## Herramientas Utilizadas
+## Herramientas Utilizadas 
 - **HTML:** Para la estructura de la página.
 - **CSS:** Para el diseño y la estética visual.
 - **JavaScript:** Para añadir interactividad y mejorar la experiencia del usuario.
